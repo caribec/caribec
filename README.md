@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Carissa, and I'm a Computer Science student specializing in Software Design!
+My name is Carissa, and I am a Computer Science student @ UH specializing in Software Design!
 
 - 🔭 I’m currently working on a weather application that pulls real time data 
 - 🌱 I’m currently learning python, and javascript
