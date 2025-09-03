@@ -3,7 +3,7 @@
 My name is Carissa, and I am a Computer Science student @ UH specializing in Software Design!
 
 - 🔭 I’m currently working on a weather application that pulls real time data 
-- 🌱 I’m currently learning python, and javascript
+- 🌱 I’m currently learning swift
 
 
 <!--
