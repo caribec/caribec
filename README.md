@@ -2,7 +2,7 @@
 
 Computer Science student @ UH specializing in Software Design!
 
- - I’m currently working on a weather application that pulls real time data.
+ - I’m currently working on a weather application that pulls real time data using Swift/SwiftUI.
 
 
 **what i use:**
